@@ -1,7 +1,0 @@
-name: Skywars
-version: @version@
-main: rdpolarity.skywars.Skywars
-api-version: 1.16
-authors: [ RDPolarity ]
-description: A simple remake of skywars
-website: aydie.me
